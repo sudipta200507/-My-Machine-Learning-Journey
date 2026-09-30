@@ -1,16 +1,70 @@
-# My-Machine-Learning-Journey
-Learning ML in public — daily notes, model experiments, and real-world projects built from scratch.
+# Machine Learning Journey
 
-👋 About This Repo
-This is my personal ML learning repository where I document everything — concepts I study, algorithms I implement, mistakes I make, and real-world projects I build. 
-Think of it as my public ML notebook.
-I update this regularly as I progress from fundamentals to building production-ready models.
+A project-oriented public learning repository documenting my progression from machine-learning fundamentals to practical AI systems.
 
-🗺️ My Learning Roadmap:
-                       (1) Python: Numpy & Pandas basics.
-                       (2) Supervised Learning (Regression, Classification).
-                       (3) Unsupervised Learning (Clustering, PCA).
-                       (4) Model Evaluation & Hyperparameter Tuning.
-                       (5) Natural Language Processing (NLP).
-                       (6) Neural Networks & Deep Learning.
-                       (7) ML Deployment (Streamlit / Flask).
+## Purpose
+
+This repository acts as a technical learning log for concepts, algorithms implemented from scratch, experiments, model evaluation, practical projects, debugging, and lessons learned.
+
+The objective is to understand why models work, not only how to call a library.
+
+## Learning Path
+
+`text
+Python
+  ↓
+NumPy / Pandas
+  ↓
+Data Preparation
+  ↓
+Supervised Learning
+  ↓
+Unsupervised Learning
+  ↓
+Evaluation & Tuning
+  ↓
+NLP
+  ↓
+Neural Networks
+  ↓
+Deep Learning
+  ↓
+Deployment
+  ↓
+LLM / Generative AI
+`
+
+## Core Topics
+
+### Machine Learning
+- Regression
+- Classification
+- Clustering
+- Dimensionality reduction
+- Feature engineering
+- Model evaluation
+- Hyperparameter tuning
+
+### Engineering
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- scikit-learn
+- Flask / Streamlit
+- Git and GitHub
+
+## Repository Philosophy
+
+**Learn → Implement → Experiment → Evaluate → Document**
+
+## Status
+
+**Active learning repository.**
+
+## Author
+
+**Sudipta Roy**  
+B.Tech CSE (AI & ML)
+
+Current focus: **Machine Learning → Deep Learning → LLM Engineering → Production AI**
