@@ -10,7 +10,7 @@ The objective is to understand why models work, not only how to call a library.
 
 ## Learning Path
 
-`text
+```text
 Python
   ↓
 NumPy / Pandas
@@ -32,7 +32,7 @@ Deep Learning
 Deployment
   ↓
 LLM / Generative AI
-`
+```
 
 ## Core Topics
 
